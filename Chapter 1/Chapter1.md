@@ -45,5 +45,5 @@ Why is there no associativity listed for the equality, inequality and comparison
 | ------------- | ------------- |
 | 1 < 2 < 3 | error: Precedence parsing error |
 | 1 < (2 < 3) | error: .... |
-| (1 < 2) \|\|  (2 < 3) | True |
+| (1 < 2) \|\\|  (2 < 3) | True |
 | (1 < 2) &&  (2 < 3) | True |

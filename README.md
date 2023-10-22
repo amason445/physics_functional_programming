@@ -4,5 +4,5 @@ This repo contains my solutions to the exercise questions from "Learn Physics wi
 References:
 Walck, S. N. (2023). Learn physics with functional programming: A hands-on guide to exploring physics with Haskell. No Starch Press. 
 
-**Please support the author on Amazon**: [Amazon Store Page]([https://www.amazon.com/Learn-Physics-Functional-Programming-Hands](https://www.amazon.com/Learn-Physics-Functional-Programming-Hands/dp/1718501668/)https://www.amazon.com/Learn-Physics-Functional-Programming-Hands/dp/1718501668/)
+**Please support the author on Amazon**: [Amazon Store Page](https://www.amazon.com/Learn-Physics-Functional-Programming-Hands/dp/1718501668/)
 

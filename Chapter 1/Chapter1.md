@@ -8,6 +8,7 @@ Evaluate ```sin 30``` in GHCi. Why is it not equal to 0.5?
 Add parentheses to the following expressions to indicate the order in which Haskell's precedence and associativity rules would evaluate the expressions:
 
 | Original Expression | With Parentheses | Solution |
+| ------------- | ------------- | ------------- |
 | 2 ^ 3 ^ 4 | 2 ^ (3 ^ 4) | 2 ^ 3 ^ 4 == 2 ^ (3 ^ 4) |
 | 2 / 3 / 4 | (2 / 3) / 4 | 2 / 3 / 4 == (2 / 3) / 4 |
 | 7 - 5 / 4 | 7 - (5 / 4) | 7 - 5 / 4 == 7 - (5 / 4) |
@@ -32,6 +33,7 @@ Why is there no associativity listed for the equality, inequality and comparison
 - Equality, inequality and comparison operators are logical operators that will map to true or false values. Additionally, these operators check for equality, its compliment or for order as below:
 
 | Original Expression | Solution |
+| ------------- | ------------- |
 | 2 == 3 | False |
 | 2 /= 3 | True |
 | 2 < 3 | True | 
@@ -39,6 +41,7 @@ Why is there no associativity listed for the equality, inequality and comparison
 
 - Additionally, it appears that chaining these operators produce compiler errors. You can use conjunction operators instead like below:
 | Original Expression | Solution |
+| ------------- | ------------- |
 | 1 < 2 < 3 | error: Precedence parsing error |
 | 1 < (2 < 3) | error: .... |
 | (1 < 2) ||  (2 < 3) | True |

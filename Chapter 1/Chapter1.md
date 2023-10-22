@@ -2,7 +2,7 @@
 
 ## Exercise 1.1
 Evaluate ```sin 30``` in GHCi. Why is it not equal to 0.5?
-- ```sin 30 ``` does not output 0.5 because floating point numbers are casted to radians when using trigonometric functions
+- ```sin 30 /= 5.0``` because floating point numbers are casted to radians when using trigonometric functions
 
 ## Exercise 1.2
 Add parentheses to the following expressions to indicate the order in which Haskell's precedence and associativity rules would evaluate the expressions:

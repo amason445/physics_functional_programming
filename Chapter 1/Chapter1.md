@@ -40,6 +40,7 @@ Why is there no associativity listed for the equality, inequality and comparison
 | 3 < 2 | False | 
 
 - Additionally, it appears that chaining these operators produce compiler errors. You can use conjunction operators instead like below:
+
 | Original Expression | Solution |
 | ------------- | ------------- |
 | 1 < 2 < 3 | error: Precedence parsing error |

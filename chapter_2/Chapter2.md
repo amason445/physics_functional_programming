@@ -21,7 +21,8 @@ Consider throwing a rock straight upward from the ground at 30 m/s. Ignoring air
 ## Exercise 2.3
 Continuing the rock example, write a function that accepts as input the the time in second and gives as output the upward velocity of the rock in meters per second.
 - Please see the file Chapter2_2-3.hs for the function and the below table for test cases:
-| t | Height |
+
+| t | Velocity |
 |------ | ------ |
 | 0 | 30.0 |
 | 1 | 20.2 |

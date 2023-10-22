@@ -1,5 +1,8 @@
 # Chapter 1 Exercise Questions
 
+Below are my solutions for the excercises in Chapter 1
+----------------------------------------------------------------------------------------
+
 ## Exercise 1.1
 Evaluate ```sin 30``` in GHCi. Why is it not equal to 0.5?
 - ```sin 30 /= 5.0``` because floating point numbers are casted to radians when using trigonometric functions

@@ -6,3 +6,7 @@ References:
 Walck, S. N. (2023). Learn physics with functional programming: A hands-on guide to exploring physics with Haskell. No Starch Press. 
 
 **Please support the author**: [Amazon Store Page](https://a.co/d/hZVlYfk)
+
+## Chapter Progress
+- Chapter 1 : **DONE**
+- Chapter 2 : *IN PROGRESS*
